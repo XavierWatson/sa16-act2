@@ -1,0 +1,35 @@
+::backdrop{
+    background-color: darkgray;
+}
+body{
+    background-color: #666;
+    background-image: url('checkers.jpg');
+}
+image{
+    border-radius: 4px;
+    margin: auto;
+    padding: 10px;
+}
+button{
+    border-radius: 6px;
+    color: cornflowerblue;
+    box-shadow: #666, 10px;
+    border: none;
+    border-inline: none;
+    padding-bottom: 8px;
+    margin: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+}
+ul{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+}
+li{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+}
